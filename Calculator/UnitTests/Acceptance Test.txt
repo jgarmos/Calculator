@@ -1,0 +1,14 @@
+﻿Notas:
+
+
+**ACEPTACION --- "2 + 2" return 4
+	* add 2 and 2 , return 4
+	* substract 3 to 5, returns 5
+	* the string "2+2" has two numbers and a operator "2","2" and "+"
+
+"5 + 4 * 2 / 2" return 9
+"3 / 2" return Error message
+"* * 4 - 2" Error message
+" 4 5 - 2" Error
+"* 4 5 - 2 -" error
+"*45-2-" Error
